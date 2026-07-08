@@ -4,7 +4,9 @@ Proyek ini merupakan proyek **Submission Akhir** untuk kelas **Deep Learning unt
 
 ## 👥 Profil Pengembang
 - **Nama:** Putri Maharani Fetra
-- **Username Dicoding:** rani_putri
+- **Username Dicoding:** Putri Maharani Fetra
+- **Gmail:** maharanifetra@gmail.com
+- **Linkdln:** [Putri Maharani Fetra](https://www.linkedin.com/in/putri-maharani-fetra-5131a7243/)
 - **Status Proyek:** Berhasil Memenuhi Semua Kriteria (Utama & Advanced)
 
 ---
