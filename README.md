@@ -2,7 +2,7 @@
 
 Proyek ini merupakan proyek **Submission Akhir** untuk kelas **Deep Learning untuk Pemodelan Data Deret Waktu (DLTM)** di **Dicoding**. Proyek ini berfokus pada peramalan (*forecasting*) multivariate dan multi-step dari data harga Bitcoin (`close` price) beserta indikator teknikal pendukung untuk horizon waktu 24 jam ke depan menggunakan arsitektur deep learning berbasis Recurrent Neural Networks (LSTM).
 
-## 👥 Profil Pengembang
+##  Profil Pengembang
 - **Nama:** Putri Maharani Fetra
 - **Username Dicoding:** Putri Maharani Fetra
 - **Gmail:** maharanifetra@gmail.com
@@ -11,7 +11,7 @@ Proyek ini merupakan proyek **Submission Akhir** untuk kelas **Deep Learning unt
 
 ---
 
-## 📁 Struktur Direktori Proyek
+##  Struktur Direktori Proyek
 
 Berikut adalah susunan file yang terdapat di dalam paket submission `Putri_Maharani_Fetra_Submission_Akhir_DLTM.zip`:
 
@@ -27,7 +27,7 @@ Putri_Maharani_Fetra_Submission_Akhir_DLTM/
 
 ---
 
-## ⚙️ Alur Eksperimen & Tahapan Pemodelan
+##  Alur Eksperimen & Tahapan Pemodelan
 
 Aplikasi dibangun menggunakan rangkaian kode yang terbagi secara terstruktur ke dalam 9 rangkaian sel sukses di dalam notebook `percobaanrani_Submission_akhir5.ipynb`:
 
@@ -47,7 +47,7 @@ Aplikasi dibangun menggunakan rangkaian kode yang terbagi secara terstruktur ke 
 
 ---
 
-## 📊 Hasil Komparasi Model
+##  Hasil Komparasi Model
 
 Model dievaluasi menggunakan metrik Mean Absolute Error (MAE) dengan skenario prediksi autoregressive (multi-step 24 jam ke depan):
 
@@ -56,7 +56,7 @@ Model dievaluasi menggunakan metrik Mean Absolute Error (MAE) dengan skenario pr
 
 ---
 
-## 💻 Persyaratan Instalasi (Requirements)
+##  Persyaratan Instalasi (Requirements)
 
 Untuk menjalankan notebook dan memuat model ini secara lokal, pastikan Anda telah memasang Python (disarankan versi 3.10 ke atas) dan semua dependensi library yang tertera pada file `requirements.txt`:
 
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+##  Cara Menjalankan Proyek
 
 Langkah-langkah untuk menjalankan eksperimen dari awal:
 
